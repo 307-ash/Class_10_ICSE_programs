@@ -1,0 +1,85 @@
+Prog. 1 | Write a program in Java to input a character. Find and display the next 10th character in the ASCII table.
+
+Prog. 2 | Write a program in Java to input character. Display next 5 characters.
+
+Prog. 3 | Write a program in Java to generate all the alternate letters in the range of letters from A to Z.
+
+Prog. 4 | Write a program to input a set of 20 letters. Convert each letter into upper case. Find and dispaly the number of vowels and number of consonants present in the set of given letters.
+
+Prog. 5 | Write a program in Java to accept an integer number N such that 0<N<27. Display the corresponding a letter of the alphabet (i.e., the letter at position N).
+        | HINT: if N = 1 then display A.
+
+Prog. 6 | Write a program to input two characters from the keyboard. Find the difference (d) between their ASCII codes. Display the following messages: 
+        | if d = 0      : both the characters are same.
+        | if d < 0      : first character is smaller.
+        | if d > 0      : second character is smaller.
+        | Sample Input  :D
+        |                P
+        | Sample Output :d = (68 - 80) = -12
+        |                First character is smalller
+
+Prog. 7 | Write a program to input a set of any 10 integer numbers. Find the sum and products of the numbers. Join the sum and product to form a single number. Display the concatenated number.
+        | HINT: let the sum = 245 and product = 1346 then the number after joining sum and product will be 2451346
+
+Prog. 8 | Write a menu driven program to generate the uppercase letters from Z to A and lowercase letters from a to z as per the user's choice.
+        | Enter 1 to display uppercase letters from Z to A and Enter 2 to display lowercase letters from a to z.
+
+Prog. 9 | Write a program to input a letter. Find its ASCII code. Reverse the ASCII code and display the equivalent character.
+        | Sample Input: Y
+        | Sample Output: ASCII Code = 89
+        | Reverse the code = 98
+        | Equivalent character: b
+
+Prog. 10| Write a menu driven program to display
+        | (a) first five uppercase letters
+        | (b) last five lowercase letters as per the user's choice. Enter 1 to display uppercase letters and enter 2 to display lowercase letters.
+
+Prog. 11| Using switch case statement, write a menu driven program to perform the following tasks:
+        | (a) To generate and print the letters from A to Z along with their Unicode.
+        |  Letters                  Unicode
+        |  A                        65
+        |  B                        66
+        |  .....                    .....
+        |  .....                    .....
+        |  Z                        90
+        | 
+        | (b) To generate and print the letters from z to a along with their Unicode.
+        |  Letters                  Unicode
+        |  z                        122
+        |  y                        121
+        |  .....                    .....
+        |  .....                    .....
+        |  a                        97
+
+Prog. 12| Write a program in Java to display the following patterns:
+        |  (a) A
+        |      ab 
+        |      ABC
+        |      abcd
+        |      ABCDE
+        |
+        |  (b) ZYXWV
+        |      ZYXW 
+        |      ZYX 
+        |      ZY
+        |      Z 
+        |
+        |  (c) ABCDE
+        |      ABC
+        |      A
+        |
+        |  (d) PRTV
+        |      PRT
+        |      PR 
+        |      P 
+        |
+        |  (e) A*B*C*D*E*
+        |      A*B*C*D*
+        |      A*B*C*
+        |      A*B*
+        |      A*
+        |
+        |  (f) a a a a a 
+        |      b b b b b 
+        |      A A A A A 
+        |      B B B B B 

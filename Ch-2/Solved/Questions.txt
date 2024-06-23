@@ -1,0 +1,42 @@
+Prog. 1 |Write a program to accept a character and check the case (upper\lower) otherwise, check whether it is a digit or a character.
+        |Sample Input  :Enter a character
+        |               H
+        |Sample Output
+
+Prog. 2 |Write a program to enter a letter. Change the case of the input letter and display the new letter and its ASCII code.
+        |Sample Input:b
+        |Sample Output:B 
+        |The ASCII value of B is 66
+
+Prog. 3 |Write a program in Java to accept a set of any 10 characters. Calculate and print the sum of ASCII codes of the characters.
+
+Prog. 4 |Write a program in java to input a set of N characters. Find and display the number of uppercase and lowercase characters. Assuming that none of the characters is a digit or a special character.
+
+Prog. 5 |Write a program in Java to input two integer numbers. Join them together to form a single number.
+        |Sample Input
+        |First number is 134
+        |Second number is 96
+        |Sample Output
+        |Number after joining 13496
+
+Prog. 6 |Write a program in Java to input a letter. If it is a uppercase letter then encode it by 5th letter, otherwise encode it with 3rd previous letter in the ASCII table.
+
+Prog. 7 |Write a program in Java to generate 10 characters between A and J randomly.
+
+Prog. 8 |Write a program in Java to print the letters from A to Z along with their numeric values from 1 to 26 respectively.
+
+Prog. 9 |Write a program in Java to display the uppercase letters along with its equivalent lowercase letters side by side in two different columns.
+
+Prog. 10|Write a program in Java to generate the following pattern:
+        |A 
+        |AB
+        |ABC
+        |ABCD
+        |ABCDE
+
+Prog. 11|Write a program in Java to generate the following pattern:
+        |A 
+        |BB
+        |CCC
+        |DDDD
+        |EEEEE

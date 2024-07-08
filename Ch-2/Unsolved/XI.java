@@ -17,6 +17,28 @@
  *         |  a                        97
  */
 
-public class XI {
-   
+import java.util.Scanner; // import the Scanner class
+ 
+public class XI { //class created
+   public static void main(String[] args) { // create a main method
+      Scanner in = new Scanner(System.in); // create a Scanner object
+      int choice; // declare an integer variable
+      System.out.println("Enter 1 to display uppercase letters or Enter 2 to display lowercase letters:"); // prompt user
+      choice = in.nextInt(); // read choice
+      switch (choice) { // switch statement
+         case 1: // case 1
+            for (char ch = 'A'; ch <= 'Z'; ch++) { // loop to display uppercase letters
+               System.out.println(ch + " " + (int) ch); // print the character and its Unicode
+            }
+            break; // break the switch statement
+         case 2: // case 2
+            for (char ch = 'z'; ch >= 'a'; ch--) { // loop to display lowercase letters
+               System.out.println(ch + " " + (int) ch); // print the character and its Unicode
+            }
+            break; // break the switch statement
+         default: // default case
+            System.out.println("Invalid choice. Please enter 1 or 2."); // display an error message
+      }
+      in.close(); // close Scanner
+   }
 }

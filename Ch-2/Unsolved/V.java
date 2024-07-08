@@ -17,5 +17,6 @@ public class V {
          char letter = (char) (N + 'A' - 1); // calculate the corresponding letter
          System.out.println("The letter at position " + N + " is: " + letter); // display the letter
       }
+      in.close(); // close Scanner
    }
 }
